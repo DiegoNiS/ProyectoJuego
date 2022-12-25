@@ -4,5 +4,7 @@ public class Compartido {
 
     public static void main(String[] args) {
         System.out.println("Proyecto Colaborativo");
+        
+        System.out.println("Presente Dante");
     }
 }
