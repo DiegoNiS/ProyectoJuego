@@ -10,5 +10,7 @@ public class Compartido {
         System.out.println("Presente Diego");
         
         System.out.println("")
+            
+        System.out.println("")
     }
 }
